@@ -1,0 +1,15 @@
+{D:/digital diploma/projects/SPI_slave_with_single_port_sync_RAM/SPI_slave_with_single_port_sync_RAM/Ram/ram.v} {1 {vlog -work work -vopt -stats=none {D:/digital diploma/projects/SPI_slave_with_single_port_sync_RAM/SPI_slave_with_single_port_sync_RAM/Ram/ram.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} {D:/digital diploma/projects/SPI_slave_with_single_port_sync_RAM/SPI_slave_with_single_port_sync_RAM/Ram/ram_tb.v} {1 {vlog -work work -vopt -stats=none {D:/digital diploma/projects/SPI_slave_with_single_port_sync_RAM/SPI_slave_with_single_port_sync_RAM/Ram/ram_tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ram_tb
+
+Top level modules:
+	ram_tb
+
+} {} {}}
