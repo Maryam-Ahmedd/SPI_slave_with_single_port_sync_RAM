@@ -40,6 +40,7 @@ During a read operation, data from the RAM is transmitted back to the master via
 The RAM block is responsible for addressing, storing, and retrieving data based on the SPI commands.
 
 ## Block Diagram
+![image](https://github.com/user-attachments/assets/abe50de1-1a93-4fca-b1a3-10cd54a8aa21)
 
 
 
